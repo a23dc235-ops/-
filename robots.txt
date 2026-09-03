@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # RSLファイルの場所を指定（あなたのURLに書き換え）
-RSL: https://あなたのユーザー名.github.io/rsl.xml
+RSL: https://a23dc235.github.io/rsl.xml
